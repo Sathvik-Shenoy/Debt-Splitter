@@ -1,0 +1,37 @@
+.container{
+    height:350px;
+    padding-left: 460px;
+    padding-top: 200px;
+}
+.text{
+    margin-left:50px;
+    border-bottom-width: 2px;
+    border-left-width: 0px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    outline:none;
+}
+.sub1{
+    margin-top: 20px !important;
+    margin-left: 90px !important;
+}
+.sub2{
+    margin-left: 150px;
+    margin-top: 0px;
+}
+#formclass{
+    padding-left:55px;
+}
+.container1{
+    padding-left:35%;
+    padding-top:10%; 
+}
+.container2{
+    width:50%;
+}
+.name{
+    outline:none;
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-bottom:8px;
+}
